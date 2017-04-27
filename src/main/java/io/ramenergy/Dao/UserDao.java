@@ -14,7 +14,7 @@ public class UserDao {
             new User("a", "b", "ab", "a@b.com", "secret"),
             new User("c", "d", "cd", "c@d.com", "secret"),
             new User("e", "f", "ef", "e@f.com", "secret"),
-            new User("g", "h", "gh", "g@h.com", "secret2")
+            new User("g", "h", "gh", "g@h.com", "secret2c")
     ));
 
     public List<User> getAllUsers() {
